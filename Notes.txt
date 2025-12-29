@@ -3,3 +3,11 @@
 	2: solid GND plane
 	3: VBAT plane
 	4: signals + extras
+
+1 oz copper
+
+3-8s Bat
+
+40 A continuous (rated 30–35 A)
+
+PCB: ~ 50 × 40 mm
