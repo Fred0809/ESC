@@ -1,0 +1,5 @@
+4 layers:
+	1: power + MOSFETS
+	2: solid GND plane
+	3: VBAT plane
+	4: signals + extras
