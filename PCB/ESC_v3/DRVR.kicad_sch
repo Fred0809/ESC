@@ -1291,7 +1291,7 @@
 		(end 66.04 97.79)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(fill
 			(type none)
@@ -1303,7 +1303,7 @@
 		(end 49.53 176.53)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(fill
 			(type none)
@@ -1315,7 +1315,7 @@
 		(end 219.71 45.72)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(fill
 			(type none)
@@ -1327,7 +1327,7 @@
 		(end 135.89 49.53)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(fill
 			(type none)
@@ -5098,7 +5098,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" ">=10uF"
+		(property "Value" "22u"
 			(at 193.548 75.692 0)
 			(effects
 				(font
