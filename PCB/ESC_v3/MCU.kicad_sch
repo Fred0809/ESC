@@ -2381,7 +2381,7 @@
 	)
 	(rectangle
 		(start 16.51 99.06)
-		(end 41.275 124.46)
+		(end 42.545 124.46)
 		(stroke
 			(width 0)
 			(type dash)
@@ -2567,7 +2567,7 @@
 	)
 	(text "Maybe:\nFerrite bead\n600 Ω @ 100 MHz, low DC resistance\n(Murata BLM18 / BLM21 series)"
 		(exclude_from_sim no)
-		(at 50.8 27.686 0)
+		(at 51.562 27.686 0)
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -3058,7 +3058,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 30.48) (xy 63.5 33.02)
+			(xy 63.5 29.21) (xy 63.5 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3578,6 +3578,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 30.48) (xy 29.21 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77ae154c-6ed6-4df6-a9d5-3215c9586195")
+	)
+	(wire
+		(pts
 			(xy 77.47 40.64) (xy 77.47 44.45)
 		)
 		(stroke
@@ -3585,16 +3595,6 @@
 			(type default)
 		)
 		(uuid "7d11c847-9916-4946-907f-60a99d342122")
-	)
-	(wire
-		(pts
-			(xy 38.1 29.21) (xy 39.37 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dfea570-fad4-41dc-b3f0-71f7f433ec27")
 	)
 	(wire
 		(pts
@@ -3998,7 +3998,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 33.02) (xy 29.21 33.02)
+			(xy 27.94 30.48) (xy 29.21 30.48)
 		)
 		(stroke
 			(width 0)
@@ -4378,6 +4378,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 50.8) (xy 25.4 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7d43844-fa1b-4b61-b9da-c59bd91d8edd")
+	)
+	(wire
+		(pts
 			(xy 137.16 151.13) (xy 139.7 151.13)
 		)
 		(stroke
@@ -4723,29 +4733,6 @@
 			)
 		)
 	)
-	(global_label "VDDA"
-		(shape input)
-		(at 38.1 29.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify right)
-		)
-		(uuid "22078fa9-4cd6-4385-b1a0-c15577080509")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9216 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "EN_DV"
 		(shape input)
 		(at 105.41 116.84 180)
@@ -4811,29 +4798,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VDD"
-		(shape input)
-		(at 25.4 52.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify right)
-		)
-		(uuid "3302b350-ea39-470d-8922-1d2236881335")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.3102 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -5345,7 +5309,7 @@
 	)
 	(global_label "VREF"
 		(shape input)
-		(at 26.67 33.02 180)
+		(at 27.94 30.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5356,7 +5320,7 @@
 		)
 		(uuid "906aee88-2fd2-4e4d-8dff-773bbf803ee1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.6126 33.02 0)
+			(at 19.8826 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5385,29 +5349,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VDDA"
-		(shape input)
-		(at 142.24 63.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left)
-		)
-		(uuid "97d2fb3f-1f21-4731-944a-c27bf168d1a3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.4184 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -5587,29 +5528,6 @@
 		(uuid "b2e49ce6-7caa-4610-ac18-d93533adda77")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 273.1246 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VDD"
-		(shape input)
-		(at 132.08 63.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify left)
-		)
-		(uuid "b58573c6-32ed-483f-af79-15bcc5a67392")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 139.1698 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6572,6 +6490,71 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
+		(at 132.08 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "202767da-b209-413f-abde-9df947e41bb4")
+		(property "Reference" "#PWR039"
+			(at 132.08 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VDD"
+			(at 132.08 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 132.08 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d4024ced-bae2-4f86-9264-ca7efa3566ee")
+		)
+		(instances
+			(project "ESC_v3"
+				(path "/bb7f65bd-c3d2-4eba-8e72-fdc4c3d3399c/cb41d658-ae32-4bca-a5d5-9c7fe787c40c"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
 		(at 129.54 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7179,6 +7162,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 39.37 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "31e7adcf-dd57-4238-9d85-ea2f3c12179c")
+		(property "Reference" "#PWR037"
+			(at 39.37 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VDDA"
+			(at 39.37 25.654 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 39.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 39.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9c48ebc-b4c3-4732-a4c6-f860edb6d530")
+		)
+		(instances
+			(project "ESC_v3"
+				(path "/bb7f65bd-c3d2-4eba-8e72-fdc4c3d3399c/cb41d658-ae32-4bca-a5d5-9c7fe787c40c"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 256.54 82.55 0)
 		(unit 1)
@@ -7449,7 +7497,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 63.5 30.48 0)
+		(at 63.5 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7457,7 +7505,7 @@
 		(dnp no)
 		(uuid "3e912fad-ceff-41cd-8f08-2ac0ca45c193")
 		(property "Reference" "#PWR033"
-			(at 63.5 34.29 0)
+			(at 63.5 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7466,7 +7514,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 63.5 26.924 0)
+			(at 63.5 25.654 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7474,7 +7522,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 30.48 0)
+			(at 63.5 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7483,7 +7531,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 30.48 0)
+			(at 63.5 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7492,7 +7540,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 63.5 30.48 0)
+			(at 63.5 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8002,7 +8050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+3V3RAW"
 			(at 37.592 104.394 0)
 			(effects
 				(font
@@ -8988,6 +9036,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 25.4 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b4d1893c-86e8-4b2f-9910-f905e69c9dc3")
+		(property "Reference" "#PWR038"
+			(at 25.4 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VDD"
+			(at 25.4 47.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 25.4 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eedacc93-fb56-4bc8-af1c-ef535d352447")
+		)
+		(instances
+			(project "ESC_v3"
+				(path "/bb7f65bd-c3d2-4eba-8e72-fdc4c3d3399c/cb41d658-ae32-4bca-a5d5-9c7fe787c40c"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 251.46 99.06 0)
 		(unit 1)
@@ -9925,6 +10038,71 @@
 			(project "ESC_v3"
 				(path "/bb7f65bd-c3d2-4eba-8e72-fdc4c3d3399c/cb41d658-ae32-4bca-a5d5-9c7fe787c40c"
 					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 142.24 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e2d456b9-444b-48cf-93ce-662d40aa8ba1")
+		(property "Reference" "#PWR040"
+			(at 142.24 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VDDA"
+			(at 142.24 59.944 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 142.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 142.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b10ab9bb-1164-4382-82b4-3372b7c5fedb")
+		)
+		(instances
+			(project "ESC_v3"
+				(path "/bb7f65bd-c3d2-4eba-8e72-fdc4c3d3399c/cb41d658-ae32-4bca-a5d5-9c7fe787c40c"
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
