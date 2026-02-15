@@ -3101,29 +3101,6 @@
 			)
 		)
 	)
-	(global_label "CAL_DV"
-		(shape input)
-		(at 111.76 73.66 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.1588)
-			)
-			(justify right)
-		)
-		(uuid "32890838-33c2-47ed-b616-a67be20ca75a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.5859 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SPB"
 		(shape input)
 		(at 49.53 66.04 90)
@@ -3184,6 +3161,29 @@
 		(uuid "48899712-6782-4f4f-ad6b-aefc03faf8be")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 104.4888 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAL"
+		(shape input)
+		(at 111.76 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify right)
+		)
+		(uuid "4bf60dd2-dac1-491b-a05a-4e367360cd80")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.3881 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
