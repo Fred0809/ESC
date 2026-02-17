@@ -2573,9 +2573,9 @@
 		)
 		(uuid "21ebfc60-20b2-4b2c-b886-c4e7fb44d622")
 	)
-	(text "50V 3x220uF"
+	(text "50V 3x330uF"
 		(exclude_from_sim no)
-		(at 53.848 64.516 0)
+		(at 52.07 60.452 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2583,9 +2583,9 @@
 		)
 		(uuid "294d8c2b-d61e-4ca7-b2c5-5d3cb0a800d3")
 	)
-	(text "50V 4x100uF"
+	(text "DNP\n\nBackup if\nneeded later"
 		(exclude_from_sim no)
-		(at 58.42 77.216 0)
+		(at 57.404 77.724 0)
 		(effects
 			(font
 				(size 1.27 1.27)
