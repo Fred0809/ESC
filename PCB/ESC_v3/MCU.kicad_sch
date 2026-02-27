@@ -4625,7 +4625,7 @@
 		)
 	)
 	(global_label "CAN_TX"
-		(shape input)
+		(shape output)
 		(at 105.41 137.16 180)
 		(fields_autoplaced yes)
 		(effects
