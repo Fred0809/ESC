@@ -1,4 +1,4 @@
-27151852663112905
+27173121734103123
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98448,6 +98448,20 @@ pin header 4-pin CPU fan
 40
 40
 SamacSys_Parts
+1935174
+1935174-2
+Connector
+0
+3
+3
+SamacSys_Parts
+2843912
+284391-2-2
+Connector
+0
+2
+2
+SamacSys_Parts
 BGA9C40P3X3_128X128X54
 9-WLCSP (1.28x1.28)
 Integrated Circuit
@@ -98462,12 +98476,26 @@ Undefined or Miscellaneous
 10
 10
 SamacSys_Parts
+BNLG15Y150MYB
+BN-LG15Y150MYB-2
+Thermistor
+0
+2
+2
+SamacSys_Parts
 ESP32C3MINI1N4X
 13.2 × 16.6 × 2.4mm_2025
 Integrated Circuit
 0
 61
 61
+SamacSys_Parts
+G6DN-1A-L
+G6DN-1A-L
+Relay or Contactor
+0
+4
+4
 SamacSys_Parts
 LGA-12
 LGA-12
@@ -98490,6 +98518,20 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
+NRVTS10100EMFST1G
+DFN5 5x6, 1.27P (SO−8FL) CASE 488AA ISSUE N
+MOSFET (N-Channel)
+0
+9
+9
+SamacSys_Parts
+NVTFS007N08HLTAG
+WDFN8 3.3x3.3, 0.65P CASE 511DY ISSUE A
+MOSFET (N-Channel)
+0
+12
+12
+SamacSys_Parts
 PTS526SM15SMTR2LFS
 PTS526SM15SMTR2 LFS-2
 Switch
@@ -98497,12 +98539,54 @@ Switch
 4
 4
 SamacSys_Parts
+QFN50P600X600X80-41N-D
+RTA (S-PQFP-N40)
+Integrated Circuit
+0
+41
+41
+SamacSys_Parts
+QFP80P900X900X160-32N
+LQFP32_2025-1.1
+Integrated Circuit
+0
+32
+32
+SamacSys_Parts
+RAC05E05SKT
+RAC05E-05SKT-2
+Power Supply
+0
+4
+4
+SamacSys_Parts
+RESC6432X110N
+2512 (6432 Metric)_2024-2
+Resistor
+0
+2
+2
+SamacSys_Parts
 SF2923HC30C2
 SF-2923HC30C-2-2
 Fuse
 0
 2
 2
+SamacSys_Parts
+SMCJ15ATR
+SMC_UD
+TVS Diode (Uni-directional)
+0
+2
+2
+SamacSys_Parts
+SOIC127P600X175-8N
+D0008A
+Integrated Circuit
+0
+8
+8
 SamacSys_Parts
 SOT95P280X110-6N
 DDC0006A
