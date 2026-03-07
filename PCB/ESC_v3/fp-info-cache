@@ -1,4 +1,4 @@
-27173121734103123
+27183758475967189
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98482,6 +98482,48 @@ Thermistor
 0
 2
 2
+SamacSys_Parts
+CAPPRD750W80D1600H3200
+16*30
+Capacitor Polarised
+0
+2
+2
+SamacSys_Parts
+CAPPRD750W80D1600H3650
+16*35.
+Capacitor Polarised
+0
+2
+2
+SamacSys_Parts
+CAPPRD750W85D1600H2700
+16*25
+Capacitor Polarised
+0
+2
+2
+SamacSys_Parts
+CFS0302TB
+CFS-0302TB-2
+Switch
+0
+6
+6
+SamacSys_Parts
+CVS03TB
+CVS-03TB-1
+Switch
+0
+10
+10
+SamacSys_Parts
+DS01C254L03BE
+DS01C-254-L-03BE-2
+Switch
+0
+6
+6
 SamacSys_Parts
 ESP32C3MINI1N4X
 13.2 × 16.6 × 2.4mm_2025
