@@ -5,3 +5,5 @@ The idea uses screw terminals for battery inputs and JST-XH connector to FCU. In
 <p align="center">
   <img src="PCB/ESC_v3/ESC_board_v3.png" width="500">
 </p>
+
+42 x 83.5 mm
