@@ -3,5 +3,7 @@ This is an ongoing project on ESC. It is currently designed for 2S-6S batteries.
 The idea uses screw terminals for battery inputs and JST-XH connector to FCU. In the project 5V for ESC's MCU comes from FCU. The FCU will be using CAN bus for controlling ESCs and getting telemetry just to see how it works out.
 
 <p align="center">
-  <img src="PCB/ESC_v3/ESC_board.png" width="500">
+  <img src="PCB/ESC_v3/ESC_board_v3.png" width="500">
 </p>
+
+42 x 83.5 mm
