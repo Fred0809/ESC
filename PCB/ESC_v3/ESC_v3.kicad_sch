@@ -5445,6 +5445,16 @@
 		)
 		(uuid "21ebfc60-20b2-4b2c-b886-c4e7fb44d622")
 	)
+	(text "1N4148WS"
+		(exclude_from_sim no)
+		(at 148.082 125.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "259f7070-c590-4af0-9f30-534743feb8ef")
+	)
 	(text "Mounting Holes"
 		(exclude_from_sim no)
 		(at 33.02 169.926 0)
@@ -5476,6 +5486,16 @@
 			)
 		)
 		(uuid "7c67a944-7bf8-4396-b28e-502741569582")
+	)
+	(text "1N4148WS"
+		(exclude_from_sim no)
+		(at 215.138 125.984 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7d12d907-d26b-43ca-a0f6-36fd77d73412")
 	)
 	(text "PDB"
 		(exclude_from_sim no)
@@ -5510,6 +5530,16 @@
 			)
 		)
 		(uuid "ca397cd5-7e05-47fb-94a7-b7fd6851494e")
+	)
+	(text "1N4148WS"
+		(exclude_from_sim no)
+		(at 78.232 125.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d77bdfd4-a462-4dc3-a409-c6e87502ea2b")
 	)
 	(junction
 		(at 233.68 147.32)
